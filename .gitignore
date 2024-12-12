@@ -1,0 +1,43 @@
+.DS_STORE
+.vscode
+.realize
+
+debug
+go-base
+
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+vendor/
+*.log
+.idea/
+routes.json
+dbconfig.yml
+env.dev.yml
+env.staging.yml
+env.test.yml
+
+!.gitkeep
+app-service
+Gopkg.lock
+
+env/local/
+env/dev/
+env/staging/
+env/pro/
+
+docker-compose-dev.yml
+docker-compose-local.yml
+docker-compose-pro.yml
+docker-compose-staging.yml
+go.sum
+exgo-common
