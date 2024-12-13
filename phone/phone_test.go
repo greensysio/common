@@ -1,10 +1,11 @@
 package phone
 
 import (
-	"bitbucket.org/greensys-tech/common/log"
 	"fmt"
-	"github.com/stretchr/testify/assert"
 	"testing"
+
+	"github.com/greensysio/common/log"
+	"github.com/stretchr/testify/assert"
 )
 
 func TestValidatePhoneNumber(t *testing.T) {

@@ -1,7 +1,7 @@
 package lang
 
 import (
-	"bitbucket.org/greensys-tech/common/log"
+	"github.com/greensysio/common/log"
 	"os"
 
 	"github.com/qor/i18n"

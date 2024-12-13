@@ -1,9 +1,9 @@
 package firebase
 
 import (
-	cmContext "bitbucket.org/greensys-tech/common/context"
-	"bitbucket.org/greensys-tech/common/log"
-	locationModel "bitbucket.org/greensys-tech/common/model/location"
+	cmContext "github.com/greensysio/common/context"
+	"github.com/greensysio/common/log"
+	locationModel "github.com/greensysio/common/model/location"
 	"fmt"
 )
 

@@ -1,10 +1,10 @@
-module bitbucket.org/greensys-tech/common
+module github.com/greensysio/common
 
 go 1.12
 
 require (
-	bitbucket.org/greensys-tech/redis v1.1.0
-	bitbucket.org/greensys-tech/security v1.1.0
+	github.com/greensysio/redis v1.1.0
+	github.com/greensysio/security v1.1.0
 	cloud.google.com/go/firestore v1.6.1
 	firebase.google.com/go/v4 v4.8.0
 	github.com/asaskevich/govalidator v0.0.0-20190424111038-f61b66f89f4a

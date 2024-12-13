@@ -1,7 +1,7 @@
 package govalidator
 
 import (
-	"bitbucket.org/greensys-tech/common/lang"
+	"github.com/greensysio/common/lang"
 	"fmt"
 	"github.com/asaskevich/govalidator"
 	"reflect"

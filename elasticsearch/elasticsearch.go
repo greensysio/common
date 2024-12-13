@@ -1,7 +1,7 @@
 package elasticsearch
 
 import (
-	"bitbucket.org/greensys-tech/common/log"
+	"github.com/greensysio/common/log"
 	"context"
 	"errors"
 	"github.com/olivere/elastic/v7"

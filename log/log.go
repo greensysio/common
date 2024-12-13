@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
-	"bitbucket.org/greensys-tech/security/model"
-	"bitbucket.org/greensys-tech/security/utils"
+	"github.com/greensysio/security/model"
+	"github.com/greensysio/security/utils"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/gommon/log"

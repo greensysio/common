@@ -1,8 +1,8 @@
 package sphericalutil
 
 import (
-	"bitbucket.org/greensys-tech/common/maps"
-	"bitbucket.org/greensys-tech/common/maps/mathutil"
+	"github.com/greensysio/common/maps"
+	"github.com/greensysio/common/maps/mathutil"
 	"math"
 )
 

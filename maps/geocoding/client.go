@@ -17,15 +17,15 @@
 package geocoding
 
 import (
-	"bitbucket.org/greensys-tech/common/log"
+	"github.com/greensysio/common/log"
 	"context"
 	"errors"
 	"fmt"
 	"os"
 	"strings"
 
-	cmContext "bitbucket.org/greensys-tech/common/context"
-	myMaps "bitbucket.org/greensys-tech/common/maps"
+	cmContext "github.com/greensysio/common/context"
+	myMaps "github.com/greensysio/common/maps"
 	"googlemaps.github.io/maps"
 )
 

@@ -1,7 +1,7 @@
 package phone
 
 import (
-	"bitbucket.org/greensys-tech/common/log"
+	"github.com/greensysio/common/log"
 	"fmt"
 	"github.com/nyaruka/phonenumbers"
 	"math/rand"

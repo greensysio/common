@@ -7,9 +7,9 @@ import (
 	"os"
 	"strings"
 
-	cmContext "bitbucket.org/greensys-tech/common/context"
-	"bitbucket.org/greensys-tech/common/log"
-	"bitbucket.org/greensys-tech/common/model/res"
+	cmContext "github.com/greensysio/common/context"
+	"github.com/greensysio/common/log"
+	"github.com/greensysio/common/model/res"
 )
 
 func init() {

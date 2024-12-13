@@ -1,6 +1,6 @@
 package direction
 
-import "bitbucket.org/greensys-tech/common/maps"
+import "github.com/greensysio/common/maps"
 
 func latLngsToString(latLngs []maps.LatLng) (result []string) {
 	lenlatLngs := len(latLngs)

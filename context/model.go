@@ -1,7 +1,7 @@
 package context
 
 import (
-	modelSE "bitbucket.org/greensys-tech/security/model"
+	modelSE "github.com/greensysio/security/model"
 	"context"
 	"github.com/labstack/echo/v4"
 	"time"

@@ -1,7 +1,7 @@
 package math
 
 import (
-	"bitbucket.org/greensys-tech/common/log"
+	"github.com/greensysio/common/log"
 	"fmt"
 	"github.com/stretchr/testify/assert"
 	"testing"

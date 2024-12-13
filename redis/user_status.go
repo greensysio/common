@@ -1,8 +1,8 @@
 package redis
 
 import (
-	"bitbucket.org/greensys-tech/common/model/enum"
-	redis "bitbucket.org/greensys-tech/redis"
+	"github.com/greensysio/common/model/enum"
+	redis "github.com/greensysio/redis"
 )
 
 // GetRedisUserStatusKeyFromRole return redis key

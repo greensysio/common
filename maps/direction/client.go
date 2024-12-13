@@ -1,13 +1,13 @@
 package direction
 
 import (
-	"bitbucket.org/greensys-tech/common/log"
-	maps2 "bitbucket.org/greensys-tech/common/maps"
+	"github.com/greensysio/common/log"
+	maps2 "github.com/greensysio/common/maps"
 	"context"
 	"errors"
 	"os"
 
-	cmContext "bitbucket.org/greensys-tech/common/context"
+	cmContext "github.com/greensysio/common/context"
 	"googlemaps.github.io/maps"
 )
 

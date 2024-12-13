@@ -22,7 +22,7 @@ import (
 	"os"
 	"strings"
 
-	"bitbucket.org/greensys-tech/common/log"
+	"github.com/greensysio/common/log"
 	"context"
 	"googlemaps.github.io/maps"
 )

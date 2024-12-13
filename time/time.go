@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"time"
 
-	"bitbucket.org/greensys-tech/common/log"
+	"github.com/greensysio/common/log"
 )
 
 func init() {

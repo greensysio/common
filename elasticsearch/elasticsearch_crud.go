@@ -1,8 +1,8 @@
 package elasticsearch
 
 import (
-	cmContext "bitbucket.org/greensys-tech/common/context"
-	"bitbucket.org/greensys-tech/common/log"
+	cmContext "github.com/greensysio/common/context"
+	"github.com/greensysio/common/log"
 	"context"
 	"os"
 	"strconv"

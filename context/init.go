@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	authUtils "bitbucket.org/greensys-tech/security/utils"
+	authUtils "github.com/greensysio/security/utils"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/gommon/random"

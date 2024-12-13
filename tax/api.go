@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"bitbucket.org/greensys-tech/common/log"
+	"github.com/greensysio/common/log"
 )
 
 func init() {

@@ -2,11 +2,12 @@
 package log
 
 import (
-	"bitbucket.org/greensys-tech/common/context"
 	"encoding/json"
+	"runtime"
+
+	"github.com/greensysio/common/context"
 	"github.com/labstack/echo/v4"
 	"github.com/sirupsen/logrus"
-	"runtime"
 )
 
 // -----------------------------------

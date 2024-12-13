@@ -1,7 +1,7 @@
 package maps
 
 import (
-	"bitbucket.org/greensys-tech/common/maps/mathutil"
+	"github.com/greensysio/common/maps/mathutil"
 	"math"
 	"strconv"
 	"strings"
